@@ -34,7 +34,7 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
+              title="Connect"
               description="A Video Conferencing web application made using WebRTC for real time communication. It has multiple features like present screen, WhiteBoard, chatroom etc. "
               ghLink="https://github.com/Prakhar-jain28/Connect-Video-conferencing-web-app"
             />
